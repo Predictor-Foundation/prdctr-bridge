@@ -10,12 +10,12 @@ The PRDCTR Bridge smart contracts have been independently audited by QuillAudits
 
 > **Audit report:** [TBC](https://www.quillaudits.com/)
 
-## Deployments
+## Mainnet Deployment
 
-| Network          | Contract       | Address                      |
-| ---------------- | -------------- | ---------------------------- |
-| Mainnet | `PRDCTRBridge` | [0x](https://etherscan.io/address/0x) |
-| Testnet | `PRDCTRBridge` | [0x783F8dfc8a676fDBe410B7b4413898e1cFe1FB76](https://sepolia.etherscan.io/address/0x783F8dfc8a676fDBe410B7b4413898e1cFe1FB76) |
+| Contract | Address | Commit |
+| -------- | ------- | -------|
+| `PRDCTRBridge Proxy` | [0x7A47CF8FA87Bd6C7733c9B25D24bfdb8CD8E2228](https://etherscan.io/address/0x7A47CF8FA87Bd6C7733c9B25D24bfdb8CD8E2228) | [d743061](https://github.com/Predictor-Foundation/predictor-bridge/commit/d743061985423471c8bc502438f4fad3b7d687b1) |
+| `PRDCTRBridge Implementation` | [0xb0517f1FD9e439d5119E0fae1053C8b882eC36BF](https://sepolia.etherscan.io/address/0xb0517f1FD9e439d5119E0fae1053C8b882eC36BF) | [d743061](https://github.com/Predictor-Foundation/predictor-bridge/commit/d743061985423471c8bc502438f4fad3b7d687b1) |
 
 ## Bridge Operations
 
